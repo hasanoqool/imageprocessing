@@ -1,0 +1,5 @@
+1- VS code installation : link
+2- Venv & python : link
+3- VS code run on server (colab)
+4- Ngork Tunnel (SSH)
+5- pip to install requirements.txt
