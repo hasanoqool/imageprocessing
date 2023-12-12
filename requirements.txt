@@ -5,3 +5,5 @@ imutils
 scikit-image
 scikit-learn
 cmake
+SimpleITK
+MedPy
