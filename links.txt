@@ -1,5 +1,5 @@
 1- VS code installation : link
-2- Venv & python : link
+2- Venv & python : https://www.youtube.com/watch?v=RUGm1Lwc55s&list=LL&index=3&t=40s
 3- VS code run on server (colab)
 4- Ngork Tunnel (SSH)
 5- pip to install requirements.txt
